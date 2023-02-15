@@ -1,5 +1,16 @@
 .judul {
     text-align: center;
     color: pink;
-    font-size: 20px;
+    font-size: 80px;
+}
+
+.title {
+    text-align: center;
+    color: aqua;
+}
+
+.sri {
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
 }
